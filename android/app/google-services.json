@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "898532067266",
+    "project_id": "vidieukhieniot",
+    "storage_bucket": "vidieukhieniot.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898532067266:android:d7ab47065be4e2da27785b",
+        "android_client_info": {
+          "package_name": "com.example.vi_dieu_khien_iot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898532067266-aag4emq37929e5hq46fceapp13v7h9od.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg2D8inSD5PyJCajMmHHO45YmUEDZmBZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898532067266-aag4emq37929e5hq46fceapp13v7h9od.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
